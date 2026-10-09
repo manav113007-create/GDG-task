@@ -1,4 +1,4 @@
-
+import gdgLogo from "./GDG logo.png";
 import { useEffect, useRef, useState } from "react";
 
 const NAV = [
@@ -211,12 +211,11 @@ export default function App() {
             </div>
           </div>
           <div className="blob">
-            <img src="/GDG logo.png" height="auto" width="100%"
-            alt="GDG Logo"
-            className="hero-logo"/>
-            </div>
-        </section>
-
+            <img
+              src="/GDG%20logo.png"
+              alt="GDG Logo"
+              className="hero-logo" />
+          </div>
          
 
         <section id="events">
