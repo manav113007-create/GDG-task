@@ -216,8 +216,8 @@ export default function App() {
               alt="GDG Logo"
               className="hero-logo" />
           </div>
+        </section>
          
-
         <section id="events">
           <Reveal>
             <h2>Upcoming Events</h2>
